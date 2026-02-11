@@ -1,2 +1,3 @@
 Hello World
 Bug fix
+New feature: Mastered git reset workflow!
