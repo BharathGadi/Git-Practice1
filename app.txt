@@ -1,4 +1,4 @@
 Hello World
 Bug fix
 New feature: Mastered git reset workflow!
-I want to remoe this laterBad change
+I want to remoe this later
